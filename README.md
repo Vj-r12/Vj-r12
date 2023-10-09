@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vijay Vithal Joshi</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="Coding" width="600" height="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
+<img align="right" alt="Coding" width="600" height="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vj-r12&label=Profile%20views&color=0e75b6&style=flat" alt="vj-r12" /> </p>
 

@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vj-r12&label=Profile%20views&color=0e75b6&style=flat" alt="vj-r12" /> </p>
 
-- 🌱 I’m currently learning **SQL Advanced level, Alteryx**
+- 🌱 I’m currently learning: **SQL Advanced level, Alteryx**
 
-- 💬 Ask me about **Data Collecting, Transforming, Analysing, Visualizing**
+- Tools & Languages: **Advanced Microsoft Excel, SQL, Power BI, Basic Alteryx**
 
-- 📫 How to reach me **vijayjoshir12@gmail.com**
+- 💬 Ask me about: **Data Collecting, Transforming, Analysing, Visualizing, and Dashboard Development.**
+
+- 📫 How to reach me: **vijayjoshir12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

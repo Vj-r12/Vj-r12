@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vj-r12&show_icons=true&locale=en" alt="vj-r12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vj-r12&" alt="vj-r12" /></p>
-![image](https://github.com/Vj-r12/Vj-r12/assets/123143472/537a1064-5ffc-477c-b0d9-61068dab408f)

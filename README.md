@@ -24,7 +24,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="vijay vithal joshi" height="25" width="25" />
-
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="vijay vithal joshi" height="25" width="25" />
+<img src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" alt="vijay vithal joshi" height="25" width="25" />
+<img src="https://d2vutrdw2j46fm.cloudfront.net/5e95d22e5aa8bf3a953eb9ae/public/5f6363b111fc7e2678545978.png" alt="vijay vithal joshi" height="25" width="25" />
+<img src="https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Logo.png" alt="vijay vithal joshi" height="25" width="30" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vj-r12&show_icons=true&locale=en&layout=compact" alt="vj-r12" /></p>
 

@@ -22,7 +22,7 @@
 <a href="mailto:vijayjoshir12@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/542/542689.png" alt="vijay vithal joshi" height="35" width="35" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Languages:</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Microsoft Excel" height="25" width="25" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png" alt="Icon 2" height="25" width="25" />

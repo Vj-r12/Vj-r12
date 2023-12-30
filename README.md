@@ -23,7 +23,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="vijay vithal joshi" height="25" width="25" />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vj-r12&show_icons=true&locale=en&layout=compact" alt="vj-r12" /></p>
 

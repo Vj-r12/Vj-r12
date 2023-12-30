@@ -18,7 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vijay-vithal-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay vithal joshi" height="30" width="40" /></a>
-<a href="https://sites.google.com/view/vj-data--analyst--portfolio/home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="vijay vithal joshi" height="30" width="35" /></a>  
+
+ <a href="https://sites.google.com/view/vj-data--analyst--portfolio/home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="vijay vithal joshi" height="30" width="35" /></a>  
+
+  <a href="vijayjoshir12@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="vijay vithal joshi" height="30" width="35" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
